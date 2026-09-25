@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nurseiit 👋</h1>
+<h1 align="center">Hi, I'm Nurseiit</h1>
 
 <p align="center">
 CS student building ML & LLM systems — and stress-testing whether they actually work.
@@ -13,10 +13,10 @@ CS student building ML & LLM systems — and stress-testing whether they actuall
 
 ### About
 
-- 🎓 BSc Computer Science @ **Astana IT University** (2024–2027) · academic exchange @ **Beijing Institute of Technology**
-- 🔬 Interested in **model generalization**, **LLMs + knowledge graphs**, and **multi-agent / RAG systems**
-- 📄 Paper accepted at **IEEE DG 2026** — on why a model that looks great on a random split can fail completely under a more honest evaluation
-- 🌍 Currently applying to Master's programs in Europe in this space
+- BSc Computer Science @ **Astana IT University** (2024–2027) · academic exchange @ **Beijing Institute of Technology**
+- Interested in **model generalization**, **LLMs + knowledge graphs**, and **multi-agent / RAG systems**
+- Paper accepted at **IEEE DG 2026** — on why a model that looks great on a random split can fail completely under a more honest evaluation
+- Currently applying to Master's programs in Europe in this space
 
 ### Featured projects
 
